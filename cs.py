@@ -1,0 +1,2 @@
+print("india")
+print("haiiii")
